@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirtansuvarna
 - 👀 I’m interested in Data science ,Machine learning , Business Analytics 
-- 🌱 I’m doing Master's of science in Business Analytics 
+- 🌱 Master's of science in Business Analytics 
 - 📫 How to reach me at kirtan.suvarna@gmail.com
 
 <!---
